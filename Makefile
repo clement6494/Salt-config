@@ -8,10 +8,10 @@ SURGE_URL ?= https://${SURGE_SUBDOMAIN}.surge.sh
 REPO_PREFIX = public/
 
 # Your repository naming conventions are really up to you
-REPO_PATH ?= qubes-os/r4.1/testing/
+REPO_PATH ?= qubes-os/r4.2/testing/
 
 # The ID of you GPG key will likely be different
-GPG_NAME ?= Packaging
+GPG_NAME ?= Clement-Conchez
 
 # I use split-GPG on Qubes OS, replace this by "gpg" if needed
 define GPG_CMD
