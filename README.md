@@ -66,7 +66,7 @@ Please note that this project is released with a [Contributor Code of Conduct][c
 License
 -------
 
-Copyright © 2021 Gonzalo Bulnes Guilpain
+Copyright © 2021 Conchez Clement
 
 To the exclusion of files contained in the `public/` directory, this project is released under the GNU General Public License v2 (see [LICENSE](LICENSE.md)).
 
