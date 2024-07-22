@@ -3,7 +3,7 @@ RPM Repository
 
 A repository of RPM packages for Qubes OS.
 
-> **Note**: This repository currently contains my packages, but the instructions in this README will allow you to get your own repository set up.
+> **Note**: This repository contains the packages to install some QbesOS configs, but the instructions in this README will allow you to get your own repository set up.
 
 Usage
 -----
